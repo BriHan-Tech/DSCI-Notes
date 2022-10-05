@@ -1,2 +1,2 @@
 # DSCI-Notes
- My notes for DSCI 100
+My notes for DSCI 100.
